@@ -4,7 +4,7 @@ import facade.restaurant.Kitchen;
 import facade.restaurant.Waiter;
 
 public class RestaurantOrderFacade {
-    
+
     private Waiter waiter = new Waiter();
     private Kitchen kitchen = new Kitchen();
 
